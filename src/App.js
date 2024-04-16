@@ -1,6 +1,8 @@
 function App() {
   return (
-    <div>Capstone Project</div>
+    <div>
+      <h1>Capstone Project</h1>
+    </div>
   );
 }
 
