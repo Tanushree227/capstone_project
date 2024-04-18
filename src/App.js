@@ -8,6 +8,7 @@ function App() {
         <li>To build a reservation form</li>
         <li>to do api calling</li>
       </ul>
+      <p>Have to do a UX/UI Designs</p>
     </div>
   );
 }
