@@ -9,6 +9,11 @@ function App() {
         <li>to do api calling</li>
       </ul>
       <p>Have to do a UX/UI Designs</p>
+      <ul>
+        <li>Do Complete the pending courses.</li>
+        <li>Learn about Instagaram Ads</li>
+        <li>work on getting job</li>
+      </ul>
     </div>
   );
 }
