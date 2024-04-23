@@ -14,6 +14,7 @@ function App() {
         <li>Learn about Instagaram Ads</li>
         <li>work on getting job</li>
       </ul>
+      <p>Certificate was not provided for course 8</p>
     </div>
   );
 }
